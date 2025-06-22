@@ -1,0 +1,6 @@
+# AutoSave Configuration
+# The interval in seconds between automatic saves
+interval: 60
+
+# Enable debug messages in console
+debug: false

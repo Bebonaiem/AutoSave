@@ -1,0 +1,5 @@
+name: AutoSave
+version: '1.0'
+main: me.bebo.autoSave.AutoSave
+api-version: '1.13'
+description: Auto-saves worlds and player data (1.13-1.21)
